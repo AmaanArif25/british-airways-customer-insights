@@ -1,4 +1,4 @@
-# ✈️ British Airways Data Science Project – Data Scientist (Job Simulation)
+# ✈️ British Airways Data Science Project – Data Scientist
 
 ## 📌 Project Overview
 This project was completed as part of a data science job simulation focused on improving customer experience and sales strategies at British Airways. It involved building predictive models, web scraping customer reviews, and deriving actionable insights from customer behavior data.
@@ -41,7 +41,7 @@ To analyze and model customer buying behavior, uncover key pain points, and prov
 - Customer Behavior & Sentiment Analysis
 
 ## 📷 Screenshots
-**Skytax Airline Review Analysis
+**Skytax Airline Review Analysis**
 ![image](https://github.com/user-attachments/assets/124e47e2-86d2-4880-ba62-26d78b08e245)
 
 **Customer Prediction**
